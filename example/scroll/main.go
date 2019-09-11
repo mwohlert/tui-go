@@ -3,7 +3,7 @@ package main
 import (
 	"log"
 
-	tui "github.com/marcusolsson/tui-go"
+	tui "github.com/mwohlert/tui-go"
 )
 
 var lorem = `Lorem ipsum dolor sit amet.`

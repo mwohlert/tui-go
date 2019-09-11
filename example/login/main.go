@@ -3,7 +3,7 @@ package main
 import (
 	"log"
 
-	"github.com/marcusolsson/tui-go"
+	"github.com/mwohlert/tui-go"
 )
 
 var logo = `     _____ __ ____  ___   ______________  
